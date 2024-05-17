@@ -12,8 +12,6 @@ This program allows you to manage student records efficiently using linked lists
 4. [Usage](#usage)
 5. [File Structure](#file-structure)
 6. [Contributing](#contributing)
-7. [License](#license)
-
 
 ## Introduction
 
